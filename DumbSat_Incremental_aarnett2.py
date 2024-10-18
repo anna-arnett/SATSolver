@@ -135,7 +135,7 @@ def run_sat_solver(input_file, output_file, plot_results=True):
         plot_timing_results(timing_data)
 
 # Example usage:
-input_file = 'input.txt'
-output_file = 'output.txt'
+input_file = 'data_aarnett2.txt'
+output_file = 'output_aarnett2.txt'
 run_sat_solver(input_file, output_file)
 
